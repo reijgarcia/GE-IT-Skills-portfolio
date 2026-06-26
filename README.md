@@ -44,29 +44,29 @@ Explore the repository by clicking the project folders and files below. Each sec
 
 ### Branding and Design
 
-- [Branding Kit / C.R.A.P. Principles](brandingkit/%20C.R.A.P.%20Principles)  
+- [Branding Kit / C.R.A.P. Principles](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/brandingkit/%20C.R.A.P.%20Principles)  
   Contains branding-related outputs and design principle activities.
 
-- [Visuals / Social Media Graphics](visuals/%20Social%20Media%20Graphics)  
+- [Visuals / Social Media Graphics](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/visuals/%20Social%20Media%20Graphics)  
   Contains my social media graphics, including the LinkedIn banner and Instagram promotional post.
 
 ### Documentation and Media
 
-- [Docs / Infographics on Project Documentation](docs/%20Infographics%20on%20Project%20Documentation)  
+- [Docs / Infographics on Project Documentation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/docs/%20Infographics%20on%20Project%20Documentation)  
   Contains infographic-based documentation outputs.
 
-- [Media / Interactive Interaction & Motion / Prototyping](media/%20Interactive%20Interaction%20%26%20Motion/%20Prototyping)  
+- [Media / Interactive Interaction & Motion / Prototyping](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/media/%20Interactive%20Interaction%20%26%20Motion/%20Prototyping)  
   Contains prototype, interaction, and media-related activity files.
 
 ### AI Skills Activities
 
-- [Prompt Engineering: Text and Image Generation](Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)  
+- [Prompt Engineering: Text and Image Generation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)  
   Contains my localized prompt engineering project titled **Davao Flood Preparedness Prompt System**.
 
-- [AI Study Tools and Platforms: Content Critique](AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)  
+- [AI Study Tools and Platforms: Content Critique](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)  
   Contains my literature verification and AI critique project titled **Flood Preparedness and Urban Drainage Challenges in Davao City**.
 
-- [AI for Research and Data Analysis: Visual Reports](AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)  
+- [AI for Research and Data Analysis: Visual Reports](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)  
   Contains my automated visual data report titled **Davao City Flood Incidents and Drainage Response Trends**.
 
 ---
@@ -88,7 +88,7 @@ The system prompt was designed to make AI act as a **Barangay Disaster Risk Redu
 - Disaster preparedness communication
 
 **Project folder:**  
-[Prompt Engineering: Text and Image Generation](Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)
+[Prompt Engineering: Text and Image Generation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)
 
 ---
 
@@ -108,7 +108,7 @@ The activity shows how AI can help generate a literature-style summary, but also
 - Local development analysis
 
 **Project folder:**  
-[AI Study Tools and Platforms: Content Critique](AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)
+[AI Study Tools and Platforms: Content Critique](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)
 
 ---
 
@@ -128,7 +128,7 @@ The report includes a raw dataset, data cleaning protocol log, cleaned dataset p
 - Mindanao development reporting
 
 **Project folder:**  
-[AI for Research and Data Analysis: Visual Reports](AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)
+[AI for Research and Data Analysis: Visual Reports](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)
 
 ---
 
