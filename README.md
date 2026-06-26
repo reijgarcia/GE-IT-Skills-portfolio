@@ -1,158 +1,205 @@
-# GE-IT-Skills-portfolio
+# 🌐 GE-IT-Skills-portfolio
 
-## Welcome to My Creative and AI Skills Repository
+## Welcome to My Digital Skills Portfolio
 
 > **"Discovering Patterns, Creating Solutions."**
 
-This repository serves as my digital portfolio for **GE IT Skills**. It contains my outputs, reflections, and project-based activities involving branding, documentation, visual design, prompt engineering, AI-assisted research, and data analysis.
+This repository is my official portfolio for **GE IT Skills**. It contains my academic outputs, creative works, AI-assisted projects, visual designs, research activities, and data analysis reports.
 
-The purpose of this portfolio is to organize my academic and creative works in one place while showing how digital tools, artificial intelligence, and design principles can be used for communication, research, and problem-solving.
+This portfolio shows how I used digital tools, artificial intelligence, design principles, and documentation skills to create organized and meaningful outputs. Most of my recent projects focus on local issues in Davao City and Mindanao, especially flood preparedness, disaster communication, urban drainage, and data-informed planning.
 
 ---
 
-## Professional Bio
+## About Me
 
 I am **Reigna Jules S. Garcia**, a **BS Data Science** student at **Ateneo de Davao University**. I am currently a first-year data science student and an incoming second-year college student next school year.
 
-My interests include data analysis, artificial intelligence, digital design, research, and using technology to solve real-world community problems. Through this portfolio, I aim to show my progress in creating organized documentation, visual outputs, AI-assisted projects, and data-based reports.
+I am interested in data analysis, artificial intelligence, visual design, digital documentation, and using technology to help solve real community problems. As a data science student, I want to develop skills that combine research, creativity, and practical problem-solving.
 
-As a data science student, I believe that technology should not only be used for convenience but also for meaningful local solutions. Many of my recent outputs focus on Davao City and Mindanao development concerns, especially flood preparedness, disaster communication, and data-informed planning.
-
----
-
-## Featured Visual Outputs
-
-### LinkedIn Banner
-
-![LinkedIn Banner](visuals/%20Social%20Media%20Graphics/GARCIA_Asset%201.png)
-
-**File:** `GARCIA_Asset 1.png`
+Through this portfolio, I aim to show my growth in working with AI tools, organizing files in GitHub, writing research-based outputs, creating visual materials, and explaining data in a way that is useful and easy to understand.
 
 ---
 
-### Instagram Promotional Post
+## Repository Contents
 
-![Instagram Promotional Post](visuals/%20Social%20Media%20Graphics/GARCIA_Asset%202.png)
+Below is a guide to the main folders and files included in this repository.
 
-**File:** `GARCIA_Asset 2.png`
+### 📁 Branding Kit
 
----
+This folder contains my branding and design principle activity.
 
-## Repository Directory Guide
-
-Explore the repository by clicking the project folders and files below. Each section contains outputs related to a specific **GE IT Skills** activity.
-
-### Branding and Design
-
-- [Branding Kit / C.R.A.P. Principles](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/brandingkit/%20C.R.A.P.%20Principles)  
-  Contains branding-related outputs and design principle activities.
-
-- [Visuals / Social Media Graphics](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/visuals/%20Social%20Media%20Graphics)  
-  Contains my social media graphics, including the LinkedIn banner and Instagram promotional post.
-
-### Documentation and Media
-
-- [Docs / Infographics on Project Documentation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/docs/%20Infographics%20on%20Project%20Documentation)  
-  Contains infographic-based documentation outputs.
-
-- [Media / Interactive Interaction & Motion / Prototyping](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/media/%20Interactive%20Interaction%20%26%20Motion/%20Prototyping)  
-  Contains prototype, interaction, and media-related activity files.
-
-### AI Skills Activities
-
-- [Prompt Engineering: Text and Image Generation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)  
-  Contains my localized prompt engineering project titled **Davao Flood Preparedness Prompt System**.
-
-- [AI Study Tools and Platforms: Content Critique](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)  
-  Contains my literature verification and AI critique project titled **Flood Preparedness and Urban Drainage Challenges in Davao City**.
-
-- [AI for Research and Data Analysis: Visual Reports](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)  
-  Contains my automated visual data report titled **Davao City Flood Incidents and Drainage Response Trends**.
+- [GARCIA_C.R.A.P. Principles Activity.pdf](./brandingkit/C.R.A.P.%20Principles/GARCIA_C.R.A.P.%20Principles%20Activity.pdf)
 
 ---
 
-## Featured Projects
+### 📁 Documentation and Infographics
+
+This folder contains my infographic output for project documentation.
+
+- [GARCIA_Infographics on Project Documentation.pdf](./docs/Infographics%20on%20Project%20Documentation/GARCIA_Infographics%20on%20Project%20Documentation.pdf)
+- [GARCIA_Infographics on Project Documentation.png](./docs/Infographics%20on%20Project%20Documentation/GARCIA_Infographics%20on%20Project%20Documentation.png)
+
+---
+
+### 📁 Media and Prototyping
+
+This folder contains my interactive interaction, motion, and prototyping outputs.
+
+- [GARCIA_Interactive Interaction Motion.mp4](./media/Interactive%20Interaction%20%26%20Motion/Prototyping/GARCIA_Interactive%20Interaction%20Motion.mp4)
+- [GARCIA_Prototyping.docx](./media/Interactive%20Interaction%20%26%20Motion/Prototyping/GARCIA_Prototyping.docx)
+
+---
+
+### 📁 Prompt Engineering: Text and Image Generation
+
+This folder contains my localized AI prompt system for flood preparedness communication.
+
+- [davao-flood-preparedness-prompt-system.md](./Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
+- [davao-flood-icon.png](./Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-icon.png)
+
+---
+
+### 📁 AI Study Tools and Platforms: Content Critique
+
+This folder contains my AI research critique and verification log.
+
+- [flood-preparedness-literature-verification-log.md](./AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29/flood-preparedness-literature-verification-log.md)
+
+---
+
+### 📁 AI for Research and Data Analysis: Visual Reports
+
+This folder contains my automated visual data report using a mock CSV dataset.
+
+- [davao-flood-data-visual-report.md](./AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29/davao-flood-data-visual-report.md)
+- [davao-flood-response-dataset.csv](./AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29/davao-flood-response-dataset.csv)
+- [chart-1-flood-incidents.png](./AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29/chart-1-flood-incidents.png)
+- [chart-2-drainage-response.png](./AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29/chart-2-drainage-response.png)
+
+---
+
+### 📁 Visuals and Social Media Graphics
+
+This folder contains my final promotional and branding visuals.
+
+- [GARCIA_Asset 1.png](./visuals/Social%20Media%20Graphics/GARCIA_Asset%201.png)
+- [GARCIA_Asset 2.png](./visuals/Social%20Media%20Graphics/GARCIA_Asset%202.png)
+
+---
+
+## Featured Works
 
 ### 1. Davao Flood Preparedness Prompt System
 
-This project demonstrates how prompt engineering can be used to create localized and practical flood preparedness advisories for barangay residents in Davao City.
+The **Davao Flood Preparedness Prompt System** is a localized prompt engineering project designed to help generate flood advisories for barangay residents in Davao City.
 
-The system prompt was designed to make AI act as a **Barangay Disaster Risk Reduction and Management Communication Officer**. It includes a specific role, local context, audience, tone, constraints, and output format.
+Instead of using a broad and generic AI prompt, this project uses a structured system prompt with a clear role, audience, location, tone, constraints, and output format. The AI is instructed to act as a **Barangay Disaster Risk Reduction and Management Communication Officer** and produce professional, calm, and community-centered flood preparedness advisories.
 
-**Key skills shown:**
+**Main skills applied:**
 
 - Prompt engineering
-- Localized AI communication
+- AI text generation
+- Localized communication
 - Markdown documentation
 - AI-generated visual asset design
-- Disaster preparedness communication
+- Disaster preparedness messaging
 
-**Project folder:**  
-[Prompt Engineering: Text and Image Generation](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29)
+**Project link:**  
+[Davao Flood Preparedness Prompt System](./Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
 
 ---
 
-### 2. Literature Verification Log: Flood Preparedness and Urban Drainage Challenges in Davao City
+### 2. Flood Preparedness and Urban Drainage Literature Verification Log
 
-This project focuses on checking and critiquing AI-generated research outputs. The topic centers on flood preparedness, urban drainage, heavy rainfall, river overflow, solid waste concerns, and barangay-level coordination in Davao City.
+This project focuses on using AI for research while also checking its accuracy. The topic is **Flood Preparedness and Urban Drainage Challenges in Davao City**.
 
-The activity shows how AI can help generate a literature-style summary, but also why human verification is necessary. The project includes a vetted literature matrix, critique log, human corrections, and final verified summary.
+The project includes an AI-generated literature summary, a vetted literature matrix, a critique log, human corrections, and a final verified summary. It shows that AI can help organize research, but its claims still need to be checked against reliable sources.
 
-**Key skills shown:**
+**Main skills applied:**
 
 - AI-assisted research
-- Content critique
+- Literature review
 - Source verification
+- Content critique
 - Hallucination checking
 - Academic writing
-- Local development analysis
+- Local issue analysis
 
-**Project folder:**  
-[AI Study Tools and Platforms: Content Critique](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29)
+**Project link:**  
+[Flood Preparedness Literature Verification Log](./AI%20Study%20Tools%20%26%20Platforms%20%28Content%20Critique%29/flood-preparedness-literature-verification-log.md)
 
 ---
 
-### 3. Automated Visual Data Report: Davao City Flood Incidents and Drainage Response Trends
+### 3. Davao City Flood Incidents and Drainage Response Visual Report
 
 This project uses a mock CSV dataset to analyze flood incidents, affected barangays, drainage complaints, and evacuation responses in Davao City from 2020 to 2025.
 
-The report includes a raw dataset, data cleaning protocol log, cleaned dataset preview, two embedded charts, and a human analytical narrative. It shows how AI can support data cleaning and visualization while still requiring human interpretation.
+The report includes a raw dataset, cleaning protocol log, cleaned dataset preview, two charts, and a human analytical narrative. It shows how AI can support the data analysis process, but human interpretation is still needed to connect the numbers to real community and LGU planning concerns.
 
-**Key skills shown:**
+**Main skills applied:**
 
+- CSV data analysis
 - Data cleaning
-- CSV analysis
 - Data visualization
 - Analytical writing
 - Policy insight generation
-- Mindanao development reporting
+- Visual reporting
+- Mindanao development context
 
-**Project folder:**  
-[AI for Research and Data Analysis: Visual Reports](https://github.com/reijgarcia/GE-IT-Skills-portfolio/tree/main/AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29)
-
----
-
-## Portfolio Theme
-
-A common theme across my recent AI activities is the use of technology for local community preparedness and development. Instead of using AI only for generic outputs, I used it to explore real issues related to Davao City, including flood preparedness, urban drainage, disaster communication, and data-informed LGU planning.
-
-These projects show that AI can be useful when it is guided by clear instructions, checked through human judgment, and connected to real local needs.
+**Project link:**  
+[Davao Flood Data Visual Report](./AI%20for%20Research%20%26%20Data%20Analysis%20%28Visual%20Reports%29/davao-flood-data-visual-report.md)
 
 ---
 
-## Skills Demonstrated
+### 4. Branding and C.R.A.P. Principles Activity
 
-- Markdown documentation
-- GitHub portfolio organization
-- Prompt engineering
-- AI-generated text and image workflows
-- AI content critique
-- Literature verification
-- Data cleaning
-- Data visualization
-- Human analytical writing
-- Local problem framing
-- Digital communication design
+This activity shows my understanding of the four basic design principles: **Contrast, Repetition, Alignment, and Proximity**.
+
+The output demonstrates how design elements can be arranged to make visual materials clearer, more organized, and easier to read. This activity helped me understand that design is not only about decoration, but also about communication and structure.
+
+**Main skills applied:**
+
+- Visual design
+- Layout organization
+- Branding
+- Design critique
+- C.R.A.P. principles
+
+**Project link:**  
+[Branding Kit Activity](./brandingkit/C.R.A.P.%20Principles/GARCIA_C.R.A.P.%20Principles%20Activity.pdf)
+
+---
+
+### 5. Infographics on Project Documentation
+
+This output presents project documentation concepts in an infographic format. It focuses on making information easier to understand through visual hierarchy, layout, and concise text.
+
+The activity helped me practice turning written information into a visual format that is easier to scan and remember.
+
+**Main skills applied:**
+
+- Infographic design
+- Visual storytelling
+- Documentation
+- Information organization
+- Digital communication
+
+**Project link:**  
+[Project Documentation Infographic](./docs/Infographics%20on%20Project%20Documentation/GARCIA_Infographics%20on%20Project%20Documentation.pdf)
+
+---
+
+## Visual Preview
+
+Here are two of my promotional visual outputs:
+
+### LinkedIn Banner
+
+![LinkedIn Banner](./visuals/Social%20Media%20Graphics/GARCIA_Asset%201.png)
+
+### Instagram Promotional Post
+
+![Instagram Promotional Post](./visuals/Social%20Media%20Graphics/GARCIA_Asset%202.png)
 
 ---
 
@@ -163,15 +210,41 @@ These projects show that AI can be useful when it is guided by clear instruction
 - Canva
 - AI text generation tools
 - AI image generation tools
-- CSV-based data analysis
+- CSV data analysis tools
 - Data visualization tools
+- Digital design tools
+
+---
+
+## Skills Developed
+
+Through this portfolio, I practiced and developed the following skills:
+
+- Organizing files and outputs in GitHub
+- Writing README documentation using Markdown
+- Creating localized AI prompts
+- Generating and critiquing AI outputs
+- Verifying AI-generated claims
+- Cleaning and analyzing CSV data
+- Creating visual charts
+- Writing human analytical narratives
+- Designing promotional graphics
+- Applying design principles to digital outputs
+
+---
+
+## Portfolio Focus
+
+The main focus of this portfolio is the responsible use of digital tools and AI. My recent projects show that AI can be helpful for generating ideas, organizing information, and creating drafts, but it should always be guided by clear instructions and reviewed by humans.
+
+A recurring theme in my work is the connection between technology and local community needs. Through topics such as flood preparedness, drainage response, and disaster communication, I explored how AI and data tools can support better understanding and decision-making in Davao City and Mindanao.
 
 ---
 
 ## Final Reflection
 
-This portfolio shows my progress in using digital tools and AI for academic, creative, and research-based outputs. I learned that AI is helpful for generating ideas, organizing information, and supporting data analysis, but it should not replace human judgment.
+This portfolio represents my progress in learning how to use digital tools for academic, creative, and research-based work. I learned that strong digital outputs require both technical skills and clear communication.
 
-For prompt engineering, I learned that better AI outputs come from clear roles, specific context, detailed constraints, and structured formats. For content critique, I learned that AI-generated claims must be verified using reliable sources. For data analysis, I learned that charts need human explanation so that numbers become meaningful for decision-making.
+For prompt engineering, I learned that AI gives better results when the prompt includes a specific role, audience, context, tone, and format. For content critique, I learned that AI-generated information must be verified before it can be trusted. For data analysis, I learned that charts are more meaningful when they are supported by a human explanation.
 
-Overall, this repository represents my development as a data science student who is learning how to use technology responsibly, creatively, and practically.
+Overall, this repository shows my growth as a data science student who is learning how to use technology responsibly, creatively, and practically.
