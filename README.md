@@ -95,6 +95,9 @@ The **Davao Flood Preparedness Prompt System** is a localized prompt engineering
 
 Instead of using a broad and generic AI prompt, this project uses a structured system prompt with a clear role, audience, location, tone, constraints, and output format. The AI is instructed to act as a **Barangay Disaster Risk Reduction and Management Communication Officer** and produce professional, calm, and community-centered flood preparedness advisories.
 
+**Design Reflection:**  
+I designed this prompt system to be specific to Davao City instead of making a general disaster preparedness prompt. I chose a clear barangay-level role, structured Markdown format, and local flood-related terms so the output would feel useful for real community communication.
+
 **Main skills applied:**
 
 - Prompt engineering
@@ -114,6 +117,9 @@ Instead of using a broad and generic AI prompt, this project uses a structured s
 This project focuses on using AI for research while also checking its accuracy. The topic is **Flood Preparedness and Urban Drainage Challenges in Davao City**.
 
 The project includes an AI-generated literature summary, a vetted literature matrix, a critique log, human corrections, and a final verified summary. It shows that AI can help organize research, but its claims still need to be checked against reliable sources.
+
+**Design Reflection:**  
+I designed this output as a verification log because the main goal was to show how AI-generated research can be checked and corrected. I used a matrix format so the AI claim, source checked, status, and human correction could be compared clearly in one place.
 
 **Main skills applied:**
 
@@ -136,6 +142,9 @@ This project uses a mock CSV dataset to analyze flood incidents, affected barang
 
 The report includes a raw dataset, cleaning protocol log, cleaned dataset preview, two charts, and a human analytical narrative. It shows how AI can support the data analysis process, but human interpretation is still needed to connect the numbers to real community and LGU planning concerns.
 
+**Design Reflection:**  
+I chose a simple trend-based visual report so the data would be easy for policymakers and LGU readers to understand. The charts were designed to show changes across years and compare drainage complaints with affected barangays, making the relationship between flooding and drainage issues easier to see.
+
 **Main skills applied:**
 
 - CSV data analysis
@@ -157,6 +166,9 @@ This activity shows my understanding of the four basic design principles: **Cont
 
 The output demonstrates how design elements can be arranged to make visual materials clearer, more organized, and easier to read. This activity helped me understand that design is not only about decoration, but also about communication and structure.
 
+**Design Reflection:**  
+I applied the C.R.A.P. principles to make the design more organized and visually balanced. I focused on contrast for readability, repetition for consistency, alignment for neatness, and proximity to group related information properly.
+
 **Main skills applied:**
 
 - Visual design
@@ -176,6 +188,9 @@ This output presents project documentation concepts in an infographic format. It
 
 The activity helped me practice turning written information into a visual format that is easier to scan and remember.
 
+**Design Reflection:**  
+I designed the infographic to make project documentation easier to read and understand quickly. I used clear grouping, short text, and visual hierarchy so the viewer could follow the information without feeling overwhelmed.
+
 **Main skills applied:**
 
 - Infographic design
@@ -186,6 +201,46 @@ The activity helped me practice turning written information into a visual format
 
 **Project link:**  
 [Project Documentation Infographic](./docs/Infographics%20on%20Project%20Documentation/GARCIA_Infographics%20on%20Project%20Documentation.pdf)
+
+---
+
+### 6. Media and Prototyping Output
+
+This output presents my interactive interaction, motion, and prototyping activity. It includes media and prototype-related files that show how a digital concept can be planned, explained, and presented.
+
+**Design Reflection:**  
+I designed this output to show the process of turning an idea into an interactive or presentable digital concept. The activity focuses on clarity, flow, and usability so the viewer can understand how the prototype or media output is meant to function.
+
+**Main skills applied:**
+
+- Prototyping
+- Interaction planning
+- Media presentation
+- Digital communication
+- Concept organization
+
+**Project link:**  
+[Media and Prototyping Folder](./media/Interactive%20Interaction%20%26%20Motion/Prototyping)
+
+---
+
+### 7. Visuals and Social Media Graphics
+
+This section includes my LinkedIn banner and Instagram promotional post. These visuals were created to support my personal branding and professional identity as a data science student.
+
+**Design Reflection:**  
+I used a consistent dark blue and purple visual style to create a modern and technology-related identity. The geometric elements, glowing text, and structured layout were chosen to match my interest in data science, AI, and digital design.
+
+**Main skills applied:**
+
+- Social media design
+- Personal branding
+- Visual layout
+- Digital identity design
+- Promotional graphics
+
+**Project link:**  
+[Visuals and Social Media Graphics](./visuals/Social%20Media%20Graphics)
 
 ---
 
