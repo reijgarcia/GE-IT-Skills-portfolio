@@ -54,8 +54,8 @@ This folder contains my interactive interaction, motion, and prototyping outputs
 
 This folder contains my localized AI prompt system for flood preparedness communication.
 
-- [davao-flood-preparedness-prompt-system.md](https://github.com/reijgarcia/GE-IT-Skills-portfolio/blob/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
-- [davao-flood-icon.png](https://github.com/reijgarcia/GE-IT-Skills-portfolio/blob/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-icon.png)
+- [davao-flood-preparedness-prompt-system.md](./Prompt%20Engineering%20%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
+- [davao-flood-icon.png](./Prompt%20Engineering%20%20%28Text%20%26%20Image%20Generation%29/davao-flood-icon.png)
 
 ---
 
@@ -108,7 +108,7 @@ I designed this prompt system to be specific to Davao City instead of making a g
 - Disaster preparedness messaging
 
 **Project link:**  
-[Davao Flood Preparedness Prompt System](https://github.com/reijgarcia/GE-IT-Skills-portfolio/blob/main/Prompt%20Engineering%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
+[Davao Flood Preparedness Prompt System](./Prompt%20Engineering%20%20%28Text%20%26%20Image%20Generation%29/davao-flood-preparedness-prompt-system.md)
 
 ---
 
